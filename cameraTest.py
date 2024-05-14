@@ -1,0 +1,2 @@
+raspistill -o pico.jpg
+
